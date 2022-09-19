@@ -16,3 +16,5 @@ Ferramentas em Go
 - [Criar uma aplicação que faz backup de vários banco de dados, arquivos importantes, usando Go](#)
 - Criar um serviço gRPC em Go
 - Criar uma aplicação client/agent, servidor que serve para monitorar os computadores de uma rede, onde os clientes enviam dados sobre informações do SO de cada um, servindo até mesmo como um sistema de inventário
+- Criar um aplicativo que faz backups em várias das aplicações da ufc, acessando por SFTP ou SSH, banco de dados, etc
+- Criar um site para converter moedas Fiduciárias para Criptomoedas, e outras conversões
