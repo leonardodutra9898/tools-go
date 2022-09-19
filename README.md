@@ -13,3 +13,5 @@ Ferramentas em Go
 - [Criar Sockets5 Server](https://github.com/armon/go-socks5)
 - [Proxy Sockets5](https://www.sobyte.net/post/2022-01/go-socket5/)
 - [Proxy](https://github.com/3proxy/3proxy)
+- [Criar uma aplicação que faz backup de vários banco de dados, arquivos importantes, usando Go](#)
+- Criar um serviço gRPC em Go
